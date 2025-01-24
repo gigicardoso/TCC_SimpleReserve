@@ -126,7 +126,7 @@ body {
     border-radius: 10px; /* Bordas mais arredondadas */
     font-size: 16px;
     cursor: pointer;
-    width: 80%; /* Ajuste a largura conforme sua preferência */
+    width: 40%; /* Ajuste a largura conforme sua preferência */
     max-width: 300px; /* Limita o tamanho máximo */
     transition: background 0.3s ease, transform 0.2s ease; /* Transições suaves */
 }
