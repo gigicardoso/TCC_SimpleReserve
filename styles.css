@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Martian+Mono:wght@400;500&family=Noto+Sans+NKo+Unjoined&family=Playfair+Display&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
     font-family: Arial, sans-serif; 
     display: flex;
@@ -14,13 +13,13 @@ body {
 }
 
 .bemvindo {
-    font-family: "Noto Sans NKo Unjoined", serif;
-    font-weight: 900;
+    font-family: "Montserrat", serif;
+    font-weight: 700;
     color: #84925b;
 }
 
 .bemvindo2 {
-    font-family: "Noto Sans NKo Unjoined", serif;
+    font-family: "Montserrat", serif;
     font-weight: 400;
     color: #84925b;
     margin-top: -20px;
